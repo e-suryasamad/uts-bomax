@@ -1,0 +1,30 @@
+[33mcommit 542a9b73d4ee925adbda708f02499a10c3753017[m[33m ([m[1;36mHEAD -> [m[1;32mfeature_y[m[33m, [m[1;31morigin/feature_y[m[33m)[m
+Author: e-suryasamad <suryasa.made@gmail.com>
+Date:   Tue May 21 05:33:59 2019 +0800
+
+    new feature file
+
+[33mcommit adb898daccc82a4ffcbc213102596d95f22f33f5[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 01380c2 a3f2833
+Author: e-suryasamad <suryasa.made@gmail.com>
+Date:   Mon May 20 18:07:09 2019 +0800
+
+    Merge branch 'feature_x'
+
+[33mcommit 01380c2b85ba3db86d8c09f4b108d3f10d315062[m
+Author: e-suryasamad <suryasa.made@gmail.com>
+Date:   Mon May 20 17:54:48 2019 +0800
+
+    New File 2
+
+[33mcommit a3f2833b5119056e7d2cef0d337f254a8edebc34[m[33m ([m[1;31morigin/feature_x[m[33m)[m
+Author: e-suryasamad <suryasa.made@gmail.com>
+Date:   Mon May 20 17:34:19 2019 +0800
+
+    New File
+
+[33mcommit b3fccebb620651773763d8e667e86ff9f4c04b82[m
+Author: e-suryasamad <suryasa.made@gmail.com>
+Date:   Mon May 20 00:30:56 2019 +0800
+
+    first commit
